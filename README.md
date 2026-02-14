@@ -5,9 +5,8 @@
 
 # Features
 ### With DDoS-Sim tool, you can:
-- Learn what a DDoS tool looks like
+- Take a view in a fake DDoS Panel 
 - Learn about ports & website ips
-- Learn whats legal and whats illegal
 
 Anyone may use this tool for educational purposes.
 
