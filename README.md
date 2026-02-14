@@ -30,10 +30,10 @@ chmod +x ddos-sim.sh
 ```bash
 ./ddos-sim.sh
 ```
-## Controls:
+## Controls
 - CTRL + C: Kill running simulation
 - ENTER: Return to main menu
 - BACKSPACE: Exit
 
-## Disclaimer:
+## Disclaimer
 This script does not send real packages. This script is a harmless DDoS Panel simulator. I am not responsible for any harm caused by my script. 
