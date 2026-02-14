@@ -36,3 +36,6 @@ chmod +x ddos-sim.sh
 
 ## Disclaimer
 This script does not send real packages. This script is a harmless DDoS Panel simulator. I am not responsible for any harm caused by my script. 
+
+## Support
+You support me by just starring this repository, or [donating to my BuyMeACoffee 🙏](https://buymeacoffee.com/sadsadist)
