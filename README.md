@@ -4,7 +4,7 @@
 
 
 # Features
-### With DDoS_Sim tool, you can:
+### With DDoS-Sim tool, you can:
 - Learn what a DDoS tool looks like
 - Learn about ports & website ips
 - Learn whats legal and whats illegal
